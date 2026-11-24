@@ -8,7 +8,7 @@ eating the homework, to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 import os
 import tempfile
 
-LINE = "You said 'do your homework', so I did it — every page, one sitting, no pencil, no complaining, and now there's nothing left to mark."
+LINE = "You said 'do your homework', so I did — every page, one sitting, no pencil, no fuss, and now there's nothing left to mark."
 
 
 def main() -> None:
